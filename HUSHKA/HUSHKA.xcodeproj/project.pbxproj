@@ -19,6 +19,7 @@
 		417FD2DB241DE5A200F06EC5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 417FD2D9241DE5A200F06EC5 /* Main.storyboard */; };
 		417FD2E0241DE5A300F06EC5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 417FD2DE241DE5A300F06EC5 /* LaunchScreen.storyboard */; };
 		417FD2E6241DE61000F06EC5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 417FD2C2241DE48500F06EC5 /* Assets.xcassets */; };
+		417FD2E824226E0800F06EC5 /* LoginStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 417FD2E724226E0800F06EC5 /* LoginStoryboard.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		417FD2DA241DE5A200F06EC5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		417FD2DF241DE5A300F06EC5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		417FD2E1241DE5A300F06EC5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		417FD2E724226E0800F06EC5 /* LoginStoryboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LoginStoryboard.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				417FD2B9241DE48300F06EC5 /* AppDelegate.swift */,
 				417FD2BB241DE48300F06EC5 /* SceneDelegate.swift */,
 				417FD2BD241DE48300F06EC5 /* ViewController.swift */,
+				417FD2E724226E0800F06EC5 /* LoginStoryboard.storyboard */,
 				417FD2BF241DE48300F06EC5 /* Main.storyboard */,
 				417FD2C4241DE48500F06EC5 /* LaunchScreen.storyboard */,
 				417FD2C7241DE48500F06EC5 /* Info.plist */,
@@ -192,6 +195,7 @@
 				417FD2C6241DE48500F06EC5 /* LaunchScreen.storyboard in Resources */,
 				417FD2C3241DE48500F06EC5 /* Assets.xcassets in Resources */,
 				417FD2C1241DE48300F06EC5 /* Main.storyboard in Resources */,
+				417FD2E824226E0800F06EC5 /* LoginStoryboard.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
